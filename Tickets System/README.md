@@ -27,7 +27,7 @@
 # Códigos
 El sistema consta de **5 códigos** principales que se encargan de todo.
 
-### [Config System]()
+### [Config System](https://github.com/XxvalentesxX/BDFD/blob/main/Tickets%20System/Config%20System.md)
 - **Trigger:** Este es completamente personalizable. Ejemplo: `m!config`.
 - **Función:** Abre el menú de configuración, donde podrás personalizar el sistema a tu gusto.
 
