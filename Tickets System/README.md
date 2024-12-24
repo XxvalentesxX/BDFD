@@ -25,7 +25,7 @@
 - En la **V2**, los límites en los paneles seguirán existiendo, pero todo será altamente personalizable, incluyendo botones, textos, y más.
 
 # Códigos
-El sistema consta de **5 códigos** principales que se encargan de todo. **Nota:** A los triggers debes retirar las comillas (`""`) antes de usarlos.
+El sistema consta de **5 códigos** principales que se encargan de todo.
 
 ### [Config System]()
 - **Trigger:** Este es completamente personalizable. Ejemplo: `m!config`.
