@@ -8,7 +8,7 @@ Ambas son comunidades ideales para interactuar con personas apasionadas por la p
 
 ### The BDS World
 - Solicita códigos y recibe ayuda sobre **BDFD**.
-- Explora guías detalladas que abarcan temas como el uso de **JSON**, **condiciones**, **variables**, y límites del sistema.
+- Explora guías detalladas que abarcan temas como el uso de **JSON**, **condiciones**, **variables**, y límites.
 - Comparte tus **APIs** y proyectos con otros desarrolladores.
 
 ### Core Community
