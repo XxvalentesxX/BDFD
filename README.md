@@ -1,5 +1,25 @@
 # Bienvenidos a mis Códigos
 
-> En este repositorio encontrarás todo tipo de códigos útiles para sistemas o comandos para BDFD, si gustas aprender más, te invito a unirte a [The BDS World](https://discord.gg/kKCyagCEA2) y [Core Community](https://discord.gg/CsqJMzDAAR). Ambas son comunidades donde podrás interactuar con gente que les gusta lo mismo que a tí, programar. En The BDS World, podrás pedir códigos, y solicitar ayuda sobre BDFD, al igual que leer las amplias guísa quie ofrece el servidor, desde como usar Json, condiciones y variables, también límites de la misma, y un apartado donde puedes compartir tus apis y proyectos, y en Core, podrás solicitar ayuda en BDFD, JavaScript, Python, HTML(y CSS). También puedes compartir tus códigos y conocomientos con la comunidad ayudandolos a resolver sus dudas, aparte que puedes promocionar tus bots de discord, proyectos, y reclutar gente para los mismos.
-#
-- Para estar al tanto de los códigos, te puedes suscribir a mi canal de YouTube: [MVK Project](https://youtube.com/@mvkproject)
+> En este repositorio encontrarás todo tipo de códigos útiles para sistemas o comandos en **BDFD**. Si deseas aprender más, te invito a unirte a dos excelentes comunidades:  
+> 
+> **[The BDS World](https://discord.gg/kKCyagCEA2)** y **[Core Community](https://discord.gg/CsqJMzDAAR)**.  
+
+Ambas son comunidades ideales para interactuar con personas apasionadas por la programación. Aquí tienes un breve resumen de lo que ofrecen:
+
+### The BDS World
+- Solicita códigos y recibe ayuda sobre **BDFD**.
+- Explora guías detalladas que abarcan temas como el uso de **JSON**, **condiciones**, **variables**, y límites del sistema.
+- Comparte tus **APIs** y proyectos con otros desarrolladores.
+
+### Core Community
+- Solicita ayuda con **BDFD**, **JavaScript**, **Python**, **HTML**, y **CSS**.
+- Comparte tus códigos y conocimientos ayudando a resolver las dudas de la comunidad.
+- Promociona tus bots de Discord, proyectos, y encuentra personas interesadas en colaborar contigo.
+
+---
+
+# Mantente al tanto
+- Para no perderte los últimos códigos y novedades, te invito a suscribirte a mi canal de YouTube:  
+  👉 **[MVK Project](https://youtube.com/@mvkproject)**  
+
+¡Únete, explora y aprende con nosotros! 🚀
