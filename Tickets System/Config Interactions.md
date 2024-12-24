@@ -1,7 +1,12 @@
+# m!config
+```js
+$nomention
+$description[Bienvenido [@$nickname\](https://discord.com/users/$authorID)
 
-### Explicación:
-1. **Tabla en HTML**: Muestra el nombre del archivo y una opción para copiar el código (aunque GitHub no soportará JavaScript para el botón de copiar, el enlace puede ser un marcador).
-2. **Código formateado**: Está escrito en un bloque de código Markdown para que sea fácil de leer.
-3. **Botón falso**: En GitHub, no es posible ejecutar `onclick` directamente en el `README.md`, pero puedes dejar un enlace que simule la acción o que dirija a una página externa para copiar el código.
+> Para empezar a configurar los tickets, puedes clickear en una opción del menú de abajo de este embed. Recuerda, que si quieres dejar un campo sin nada, debes poner null, o dejarlo vacío. En caso de querer dejarlo como ya estaba(esto solamente si ya has configurado alguna vez tu ticket), debes dejar con el valor por defecto que ya trae el campo. En caso de querer hacer saltos de líneas, y se dificulte, puedes usar \n.
 
-Esto es lo más cercano a un diseño funcional para un `README.md` en GitHub. Si necesitas algo más interactivo, deberías considerar usar una página HTML alojada externamente. 😊
+-# Para empezar, debes seleccionar el número fe opciones que tendrá tu panel. El máximo es 10.]
+$addButton[no;options-$authorID;Establecer;primary;no]
+$color[#4f5dcd]
+```
+#
