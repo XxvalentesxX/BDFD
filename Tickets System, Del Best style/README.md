@@ -1,7 +1,7 @@
 # Explicación
 > Este sistema te permite gestionar tus tickets de manera personalizada. Es totalmente adaptable y puede ser utilizado en distintos servidores. Para que todo funcione correctamente, debes copiar y pegar todos los códigos proporcionados. Además, necesitarás crear una simple variable que gestionará todo el sistema.
 
----
+#
 
 # Variable
 <div align="center">
@@ -21,14 +21,14 @@
   </table>
 </div>
 
----
+#
 
 # Límites
 - Aunque es cierto que las variables en BDFD tienen un límite, este sistema no es la excepción. Cada tipo de variable tiene diferentes restricciones, pero hemos optimizado el uso para que este sistema tenga un límite más amplio. 
 - Sin embargo, en casos extremos, podrías encontrar errores debido a estas limitaciones. Para solucionar este problema, estamos trabajando en la **V2**, que eliminará las restricciones relacionadas con embeds y otros aspectos visuales. 
 - En la **V2**, los límites en los paneles seguirán existiendo, pero todo será altamente personalizable, incluyendo botones, textos, y más.
 
----
+#
 
 # Códigos
 El sistema consta de **5 códigos** principales que se encargan de todo. **Nota:** A los triggers debes retirar las comillas (`""`) antes de usarlos.
