@@ -1,27 +1,7 @@
-# archivo.js
 
-Haz clic en el botón para copiar el código:
+### Explicación:
+1. **Tabla en HTML**: Muestra el nombre del archivo y una opción para copiar el código (aunque GitHub no soportará JavaScript para el botón de copiar, el enlace puede ser un marcador).
+2. **Código formateado**: Está escrito en un bloque de código Markdown para que sea fácil de leer.
+3. **Botón falso**: En GitHub, no es posible ejecutar `onclick` directamente en el `README.md`, pero puedes dejar un enlace que simule la acción o que dirija a una página externa para copiar el código.
 
-<div align="center">
-  <table style="border: 1px solid black; border-collapse: collapse; width: 80%; text-align: left; border-radius: 10px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th style="border: 1px solid black; padding: 8px; text-align: center;">Archivo</th>
-        <th style="border: 1px solid black; padding: 8px; text-align: center;">Acción</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="border: 1px solid black; padding: 8px;">archivo.js</td>
-        <td style="border: 1px solid black; padding: 8px; text-align: center;">
-          <a href="#" onclick="navigator.clipboard.writeText('$nomention\nhola')">Copiar código</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-### Código:
-```js
-$nomention
-hola
+Esto es lo más cercano a un diseño funcional para un `README.md` en GitHub. Si necesitas algo más interactivo, deberías considerar usar una página HTML alojada externamente. 😊
