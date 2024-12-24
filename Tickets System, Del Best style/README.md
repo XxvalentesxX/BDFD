@@ -17,8 +17,10 @@
     </tbody>
   </table>
 </div>
+
 # Limites
 - Si bien es cierto que las variables en BDFD tienen un cierto límite, esta no es la excepción, sabiendo que cada tipo de variable tiene distintos límites, he aprovechado eso, y tiene un límite más amplio. Igualmente, eso no quita que en algún momento pueda dar un error. Para eso, estoy trabajando en la V2, y no tend´ra un límite en embeds ni nada por el estílo, pero si que seguirá habiendo un límite en paneles. Pero esto será todo customizable, hasta botones.
+
 # Códigos
 - Este sistema consta de 5 códigos que se encargan de todo. A los triggers, se les debe retirar las comillas ("").
 > [Config System](), el trigger de este, es totalmente personalizable. Ejemplo: "m!config".
