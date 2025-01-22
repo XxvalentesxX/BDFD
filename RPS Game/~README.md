@@ -27,6 +27,6 @@ El sistema consta de **2 códigos** principales que se encargan de todo.
 - **Trigger:** Este es completamente personalizable. Ejemplo: `m!rps`.
 - **Función:** Inicia un juego, ya sea con el propio bot, o contra un usuario.
 
-### [RPS Interaction]()
+### [RPS Interaction](https://github.com/XxvalentesxX/BDFD/blob/main/RPS%20Game%2FRPS-Interaction.md)
 - **Trigger:** Este debe ser `$onInteraction` sin [].
 - **Función:** Maneja las interacciones del juego.
