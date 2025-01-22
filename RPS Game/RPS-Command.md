@@ -1,4 +1,4 @@
-# `m!config`
+# `m!rps`
 ```js
 $nomention
 $description[Bienvenido [@$nickname\](https://discord.com/users/$authorID)
