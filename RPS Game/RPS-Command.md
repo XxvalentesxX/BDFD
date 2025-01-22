@@ -1,4 +1,4 @@
-# `m!rps`
+# m!rps
 ```js
 $nomention
 $jsonParse[$getUserVar[rps;$authorID]]
