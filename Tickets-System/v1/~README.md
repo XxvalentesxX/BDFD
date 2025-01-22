@@ -31,11 +31,11 @@ El sistema consta de **5 códigos** principales que se encargan de todo.
 - **Trigger:** Este es completamente personalizable. Ejemplo: `m!config`.
 - **Función:** Abre el menú de configuración, donde podrás personalizar el sistema a tu gusto.
 
-### [Ticket Panel]()
+### [Ticket Panel](https://github.com/XxvalentesxX/BDFD/blob/main/Tickets-System%2Fv1%2FTicket%20Panel.md)
 - **Trigger:** Este también es personalizable. Ejemplo: `m!panel`.
 - **Función:** Envía el panel de tickets ya configurado.
 
-### [Embed Tags]()
+### [Embed Tags](https://github.com/XxvalentesxX/BDFD/blob/main/Tickets-System%2Fv1%2FEmbed-Tags.md)
 - **Trigger:** Personalizable. Ejemplo: `m!tags`.
 - **Función:** Muestra las etiquetas disponibles que puedes usar para personalizar los mensajes.
 
@@ -43,7 +43,7 @@ El sistema consta de **5 códigos** principales que se encargan de todo.
 - **Trigger:** Este debe ser `"$onInteraction"`.
 - **Función:** Gestiona las interacciones del menú de configuración.
 
-### [Ticket Interactions]()
+### [Ticket Interactions](https://github.com/XxvalentesxX/BDFD/blob/main/Tickets-System%2Fv1%2FTicket-Interactions.md)
 - **Trigger:** Este debe ser `"$onInteraction"`.
 - **Función:** Gestiona las interacciones del panel de tickets, como crear, cerrar o responder un ticket.
 
