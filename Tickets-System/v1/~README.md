@@ -27,7 +27,7 @@
 # Códigos
 El sistema consta de **5 códigos** principales que se encargan de todo.
 
-### [Config System](https://github.com/XxvalentesxX/BDFD/blob/main/Tickets%20System/Config%20System.md)
+### [Config System](https://github.com/XxvalentesxX/BDFD/blob/main/Tickets-System%2Fv1%2FConfig-System.md)
 - **Trigger:** Este es completamente personalizable. Ejemplo: `m!config`.
 - **Función:** Abre el menú de configuración, donde podrás personalizar el sistema a tu gusto.
 
@@ -39,7 +39,7 @@ El sistema consta de **5 códigos** principales que se encargan de todo.
 - **Trigger:** Personalizable. Ejemplo: `m!tags`.
 - **Función:** Muestra las etiquetas disponibles que puedes usar para personalizar los mensajes.
 
-### [Config Interactions]()
+### [Config Interactions](https://github.com/XxvalentesxX/BDFD/blob/main/Tickets-System%2Fv1%2FConfig-Interactions.md)
 - **Trigger:** Este debe ser `"$onInteraction"`.
 - **Función:** Gestiona las interacciones del menú de configuración.
 
