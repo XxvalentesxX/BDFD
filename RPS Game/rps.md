@@ -1,5 +1,5 @@
-#Explicación
-Este sistema de RPS básico, consta de 2 comandos, un prefix. y una interacción. Puedes usarlo libremente, simplemente no lonhagas pasar por tuyo. Espero que les sirva, y muchas gracias.
+# Introducción
+> Este sistema de RPS básico, consta de 2 comandos, un prefix. y una interacción. Puedes usarlo libremente, simplemente no lonhagas pasar por tuyo. Espero que les sirva, y muchas gracias.
 
 
 # Variable
@@ -14,8 +14,10 @@ Este sistema de RPS básico, consta de 2 comandos, un prefix. y una interacción
     <tbody>
       <tr>
         <td style="border: 1px solid black; padding: 8px;">rps</td>
-        <td style="border: 1px solid black; padding: 8px;"></td>
+        <td style="border: 1px solid black; padding: 8px;">{"game":false,"vs":null,"msg":null,"select":null}</td>
       </tr>
     </tbody>
   </table>
 </div>
+
+# Códigos
