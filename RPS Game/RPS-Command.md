@@ -33,4 +33,4 @@ $endif
 $jsonSetString[game;true] $jsonSetString[vs;$var[user]] $jsonSetString[msg;$channelID/$var[id]] $jsonSetString[owner;true] $setUserVar[rps;$jsonStringify;$authorID]
 $async[x] $replyIn[3m] $deleteMessage[$channelID;$var[id]] $resetUserVar[rps;$authorID] $resetUserVar[rps;$var[user]] $endasync
 ```
-#
+# 
