@@ -1,6 +1,6 @@
-- Este esquema sirve para aquellos usuarios que están avanzados en BDFD, aquellos que usan APIs, variable u objetos JSON y loops.
+![image](https://github.com/user-attachments/assets/43864953-16bd-4b3b-88aa-d10c48c9d43e)- Este esquema sirve para aquellos usuarios que están avanzados en BDFD, aquellos que usan APIs, variable u objetos JSON y loops.
 - A continuación te dejo una vista previa:
-<img src="https://discord.com/channels/1077968892535775262/1101194005850636439/1337165369080676423">
+<img src="https://github.com/user-attachments/assets/96e5966c-ddb0-40d5-92ad-2bfbf304fdf4">
 
 # Código de esquema de resaltado
 
